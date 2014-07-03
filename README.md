@@ -29,8 +29,8 @@ This firmware fully based on original 1.5.0 (**Thanks, iBasso guys!**).
 Changes:
 
 - removed android `lib/soundfx`
-- used different configs for MangoPlayer(lossy/lossless) to prevent degrading sound quality for lossless formats because of using FFMPEG
-- used HIGH irr bandwidth for WM8740
+- used different configs for MangoPlayer(lossy/lossless) to prevent degrading sound quality for lossless formats because of using FFMPEG/EQ
+- used HIGH irr bandwidth for WM8740 (can be switched)
 
 That's all. Cheers!
 
